@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="HTML Assignment One For Basic HTML Element">
+    <meta name="keywords" content="HTML Assignment 1, HTML Lab Assignment 1, HTML Practical Assignment 1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Assignment 1 | Basic HTML Element</title>
+</head>
+<body style="margin-left:100px; margin-top:50px;">
+
+    <center><h1>HTML Assignment 1</h1></center>
+    <hr color="red">
+
+    <p>
+        It is my <b>First HTML</b> Assignment. I am excited to learn HTML, and I want to make a career in <b>web designing</b>.
+    </p>
+
+    <h2>Introduction to HTML</h2>
+    <p style="text-align: justify;">
+        HTML (<i>Hypertext Markup Language</i>) is used to create documents on the 
+        <u>World Wide Web.</u> <i>It is simply a collection of certain keywords called "Tags" 
+        that are helpful in writing documents to be displayed using a browser on the Internet.</i> 
+        HTML was developed by <b>Tim Berners-Lee</b> in 1992.
+    </p>
+
+</body>
+</html>
+
